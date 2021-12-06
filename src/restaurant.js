@@ -47,7 +47,7 @@ function createRestaurant(name){
      }
    }
    return `Sorry, we don't sell ${foodType}, try adding a new recipe!`
- }
+ };
 
 
 
